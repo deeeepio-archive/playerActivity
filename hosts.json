@@ -1,1 +1,298 @@
-{}
+{
+  "doKKdo": {
+    "id": "doKKdo",
+    "server_id": "v2as1",
+    "user_id": null,
+    "pid": 1678,
+    "gamemode": 6,
+    "custom": false,
+    "is_private": false,
+    "map_id": 11953,
+    "users": 10,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 100,
+    "https_port": 500,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-04-27T22:59:23.000Z",
+    "updated_at": "2025-05-17T20:25:39.000Z",
+    "server": {
+      "region": "AS",
+      "latitude": 36,
+      "longitude": 140,
+      "subdomain": "gs-v2-as1"
+    },
+    "map": {
+      "string_id": "star_rain_ffa",
+      "user": {
+        "id": 389999,
+        "username": "✶アイ💫𝐆𝐞𝐦𝐢𝐧𝐢🌟",
+        "verified": true
+      }
+    }
+  },
+  "ShMMo0": {
+    "id": "ShMMo0",
+    "server_id": "v2as1",
+    "user_id": null,
+    "pid": 2284368,
+    "gamemode": 1,
+    "custom": false,
+    "is_private": false,
+    "map_id": 10836,
+    "users": 3,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 103,
+    "https_port": 503,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-05-08T12:14:38.000Z",
+    "updated_at": "2025-05-17T20:25:52.000Z",
+    "server": {
+      "region": "AS",
+      "latitude": 36,
+      "longitude": 140,
+      "subdomain": "gs-v2-as1"
+    },
+    "map": {
+      "string_id": "morty_ffa_v5",
+      "user": {
+        "id": 442444,
+        "username": "morty_376",
+        "verified": false
+      }
+    }
+  },
+  "QWkcCa": {
+    "id": "QWkcCa",
+    "server_id": "v2au1",
+    "user_id": null,
+    "pid": 397208,
+    "gamemode": 1,
+    "custom": false,
+    "is_private": false,
+    "map_id": 10836,
+    "users": 1,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 101,
+    "https_port": 501,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-05-12T13:02:46.000Z",
+    "updated_at": "2025-05-17T20:25:42.000Z",
+    "server": {
+      "region": "OCE",
+      "latitude": 33,
+      "longitude": 151,
+      "subdomain": "gs-v2-au1"
+    },
+    "map": {
+      "string_id": "morty_ffa_v5",
+      "user": {
+        "id": 442444,
+        "username": "morty_376",
+        "verified": false
+      }
+    }
+  },
+  "K6uEPQ": {
+    "id": "K6uEPQ",
+    "server_id": "v2eu1",
+    "user_id": null,
+    "pid": 1084591,
+    "gamemode": 6,
+    "custom": false,
+    "is_private": false,
+    "map_id": 11953,
+    "users": 13,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 106,
+    "https_port": 506,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-05-10T17:42:58.000Z",
+    "updated_at": "2025-05-17T20:26:07.000Z",
+    "server": {
+      "region": "EU",
+      "latitude": 50,
+      "longitude": 9,
+      "subdomain": "gs-v2-eu1"
+    },
+    "map": {
+      "string_id": "star_rain_ffa",
+      "user": {
+        "id": 389999,
+        "username": "✶アイ💫𝐆𝐞𝐦𝐢𝐧𝐢🌟",
+        "verified": true
+      }
+    }
+  },
+  "urWzOV": {
+    "id": "urWzOV",
+    "server_id": "v2eu1",
+    "user_id": null,
+    "pid": 1147081,
+    "gamemode": 1,
+    "custom": false,
+    "is_private": false,
+    "map_id": 10836,
+    "users": 53,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 102,
+    "https_port": 502,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-05-11T06:52:19.000Z",
+    "updated_at": "2025-05-17T20:25:31.000Z",
+    "server": {
+      "region": "EU",
+      "latitude": 50,
+      "longitude": 9,
+      "subdomain": "gs-v2-eu1"
+    },
+    "map": {
+      "string_id": "morty_ffa_v5",
+      "user": {
+        "id": 442444,
+        "username": "morty_376",
+        "verified": false
+      }
+    }
+  },
+  "09pwhY": {
+    "id": "09pwhY",
+    "server_id": "v2na2",
+    "user_id": null,
+    "pid": 2149,
+    "gamemode": 6,
+    "custom": false,
+    "is_private": false,
+    "map_id": 11953,
+    "users": 59,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 100,
+    "https_port": 500,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-04-24T01:42:54.000Z",
+    "updated_at": "2025-05-17T20:25:47.000Z",
+    "server": {
+      "region": "NAE",
+      "latitude": 32,
+      "longitude": -96,
+      "subdomain": "gs-v2-na2"
+    },
+    "map": {
+      "string_id": "star_rain_ffa",
+      "user": {
+        "id": 389999,
+        "username": "✶アイ💫𝐆𝐞𝐦𝐢𝐧𝐢🌟",
+        "verified": true
+      }
+    }
+  },
+  "Seho4B": {
+    "id": "Seho4B",
+    "server_id": "v2na2",
+    "user_id": null,
+    "pid": 2943,
+    "gamemode": 1,
+    "custom": false,
+    "is_private": false,
+    "map_id": 10836,
+    "users": 42,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 119,
+    "https_port": 519,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-04-24T01:44:46.000Z",
+    "updated_at": "2025-05-17T20:25:48.000Z",
+    "server": {
+      "region": "NAE",
+      "latitude": 32,
+      "longitude": -96,
+      "subdomain": "gs-v2-na2"
+    },
+    "map": {
+      "string_id": "morty_ffa_v5",
+      "user": {
+        "id": 442444,
+        "username": "morty_376",
+        "verified": false
+      }
+    }
+  },
+  "jXq3Be": {
+    "id": "jXq3Be",
+    "server_id": "v2sa1",
+    "user_id": null,
+    "pid": 3799272,
+    "gamemode": 1,
+    "custom": false,
+    "is_private": false,
+    "map_id": 10836,
+    "users": 9,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 100,
+    "https_port": 500,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-05-11T06:52:20.000Z",
+    "updated_at": "2025-05-17T20:25:59.000Z",
+    "server": {
+      "region": "LAS",
+      "latitude": 33,
+      "longitude": 70,
+      "subdomain": "gs-v2-sa1"
+    },
+    "map": {
+      "string_id": "morty_ffa_v5",
+      "user": {
+        "id": 442444,
+        "username": "morty_376",
+        "verified": false
+      }
+    }
+  }
+}
