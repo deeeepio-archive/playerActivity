@@ -131,7 +131,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-05-10T17:42:58.000Z",
-    "updated_at": "2025-06-08T07:42:03.000Z",
+    "updated_at": "2025-06-08T07:47:08.000Z",
     "server": {
       "region": "EU",
       "latitude": 50,
@@ -168,7 +168,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-05-11T06:52:19.000Z",
-    "updated_at": "2025-06-08T07:41:48.000Z",
+    "updated_at": "2025-06-08T07:46:53.000Z",
     "server": {
       "region": "EU",
       "latitude": 50,
@@ -279,7 +279,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-05-11T06:52:20.000Z",
-    "updated_at": "2025-06-08T07:41:56.000Z",
+    "updated_at": "2025-06-08T07:47:01.000Z",
     "server": {
       "region": "LAS",
       "latitude": 33,
@@ -489,7 +489,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 10836,
-    "users": 54,
+    "users": 42,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -501,7 +501,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-07T02:59:04.000Z",
-    "updated_at": "2025-06-08T07:41:48.000Z",
+    "updated_at": "2025-06-08T07:46:53.000Z",
     "server": {
       "region": "OCE",
       "latitude": 33,
