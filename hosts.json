@@ -538,7 +538,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-10T14:34:09.000Z",
-    "updated_at": "2025-06-14T16:17:23.000Z",
+    "updated_at": "2025-06-14T16:23:29.000Z",
     "server": {
       "region": "OCE",
       "latitude": 33,
@@ -563,7 +563,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 10836,
-    "users": 10,
+    "users": 6,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -575,7 +575,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-10T14:33:37.000Z",
-    "updated_at": "2025-06-14T16:17:08.000Z",
+    "updated_at": "2025-06-14T16:23:14.000Z",
     "server": {
       "region": "OCE",
       "latitude": 33,
@@ -600,7 +600,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 10836,
-    "users": 32,
+    "users": 37,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -612,7 +612,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-10T14:33:36.000Z",
-    "updated_at": "2025-06-14T16:17:11.000Z",
+    "updated_at": "2025-06-14T16:23:17.000Z",
     "server": {
       "region": "LAS",
       "latitude": 33,
@@ -649,12 +649,49 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-10T14:34:08.000Z",
-    "updated_at": "2025-06-14T16:16:32.000Z",
+    "updated_at": "2025-06-14T16:22:38.000Z",
     "server": {
       "region": "LAS",
       "latitude": 33,
       "longitude": 70,
       "subdomain": "gs-v2-sa1"
+    },
+    "map": {
+      "string_id": "star_rain_ffa",
+      "user": {
+        "id": 389999,
+        "username": "✶アイ💫𝐆𝐞𝐦𝐢𝐧𝐢🌟",
+        "verified": true
+      }
+    }
+  },
+  "Vw9MaW": {
+    "id": "Vw9MaW",
+    "server_id": "v2as1",
+    "user_id": null,
+    "pid": 320194,
+    "gamemode": 6,
+    "custom": false,
+    "is_private": false,
+    "map_id": 11953,
+    "users": 0,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 100,
+    "https_port": 500,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-06-14T16:23:15.000Z",
+    "updated_at": "2025-06-14T16:23:15.000Z",
+    "server": {
+      "region": "AS",
+      "latitude": 36,
+      "longitude": 140,
+      "subdomain": "gs-v2-as1"
     },
     "map": {
       "string_id": "star_rain_ffa",
