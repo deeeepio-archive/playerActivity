@@ -600,7 +600,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 10836,
-    "users": 1,
+    "users": 2,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -612,7 +612,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-10T14:33:36.000Z",
-    "updated_at": "2025-06-15T07:01:41.000Z",
+    "updated_at": "2025-06-15T07:07:47.000Z",
     "server": {
       "region": "LAS",
       "latitude": 33,
@@ -674,7 +674,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 11953,
-    "users": 43,
+    "users": 38,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -686,7 +686,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-14T16:23:15.000Z",
-    "updated_at": "2025-06-15T07:01:37.000Z",
+    "updated_at": "2025-06-15T07:07:43.000Z",
     "server": {
       "region": "AS",
       "latitude": 36,
@@ -723,7 +723,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-15T04:20:45.000Z",
-    "updated_at": "2025-06-15T07:01:23.000Z",
+    "updated_at": "2025-06-15T07:07:29.000Z",
     "server": {
       "region": "EU",
       "latitude": 50,
@@ -748,7 +748,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 10836,
-    "users": 16,
+    "users": 15,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -760,7 +760,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-15T04:20:44.000Z",
-    "updated_at": "2025-06-15T07:01:22.000Z",
+    "updated_at": "2025-06-15T07:07:28.000Z",
     "server": {
       "region": "NAE",
       "latitude": 32,
@@ -785,7 +785,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 11953,
-    "users": 7,
+    "users": 6,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -797,12 +797,49 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-15T04:21:41.000Z",
-    "updated_at": "2025-06-15T07:01:17.000Z",
+    "updated_at": "2025-06-15T07:07:23.000Z",
     "server": {
       "region": "NAE",
       "latitude": 32,
       "longitude": -96,
       "subdomain": "gs-v2-na2"
+    },
+    "map": {
+      "string_id": "star_rain_ffa",
+      "user": {
+        "id": 389999,
+        "username": "✶アイ💫𝐆𝐞𝐦𝐢𝐧𝐢🌟",
+        "verified": true
+      }
+    }
+  },
+  "ARw3YK": {
+    "id": "ARw3YK",
+    "server_id": "v2eu1",
+    "user_id": null,
+    "pid": 7862,
+    "gamemode": 6,
+    "custom": false,
+    "is_private": false,
+    "map_id": 11953,
+    "users": 0,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 104,
+    "https_port": 504,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-06-15T07:03:19.000Z",
+    "updated_at": "2025-06-15T07:07:23.000Z",
+    "server": {
+      "region": "EU",
+      "latitude": 50,
+      "longitude": 9,
+      "subdomain": "gs-v2-eu1"
     },
     "map": {
       "string_id": "star_rain_ffa",
