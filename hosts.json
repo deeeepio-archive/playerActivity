@@ -612,7 +612,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-10T14:33:36.000Z",
-    "updated_at": "2025-06-22T08:35:00.000Z",
+    "updated_at": "2025-06-22T08:40:05.000Z",
     "server": {
       "region": "LAS",
       "latitude": 33,
@@ -674,7 +674,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 11953,
-    "users": 50,
+    "users": 48,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -686,7 +686,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-14T16:23:15.000Z",
-    "updated_at": "2025-06-22T08:35:07.000Z",
+    "updated_at": "2025-06-22T08:40:12.000Z",
     "server": {
       "region": "AS",
       "latitude": 36,
@@ -748,7 +748,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 10836,
-    "users": 21,
+    "users": 20,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -760,7 +760,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-15T04:20:44.000Z",
-    "updated_at": "2025-06-22T08:35:16.000Z",
+    "updated_at": "2025-06-22T08:40:21.000Z",
     "server": {
       "region": "NAE",
       "latitude": 32,
@@ -797,7 +797,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-15T04:21:41.000Z",
-    "updated_at": "2025-06-22T08:35:17.000Z",
+    "updated_at": "2025-06-22T08:40:22.000Z",
     "server": {
       "region": "NAE",
       "latitude": 32,
@@ -896,7 +896,7 @@
     "custom": false,
     "is_private": false,
     "map_id": 11953,
-    "users": 25,
+    "users": 26,
     "ready": true,
     "room_status": 2,
     "version": 60,
@@ -908,7 +908,7 @@
     "min_tier": 1,
     "locked": false,
     "created_at": "2025-06-21T17:20:26.000Z",
-    "updated_at": "2025-06-22T08:34:25.000Z",
+    "updated_at": "2025-06-22T08:40:31.000Z",
     "server": {
       "region": "EU",
       "latitude": 50,
@@ -921,6 +921,43 @@
         "id": 389999,
         "username": "✶アイ💫𝐆𝐞𝐦𝐢𝐧𝐢🌟",
         "verified": true
+      }
+    }
+  },
+  "MRUlmP": {
+    "id": "MRUlmP",
+    "server_id": "v2au1",
+    "user_id": null,
+    "pid": 2748409,
+    "gamemode": 1,
+    "custom": false,
+    "is_private": false,
+    "map_id": 10836,
+    "users": 2,
+    "ready": true,
+    "room_status": 2,
+    "version": 60,
+    "max_users": 160,
+    "http_port": 103,
+    "https_port": 503,
+    "unrealistic_skins": false,
+    "only_users": false,
+    "min_tier": 1,
+    "locked": false,
+    "created_at": "2025-06-22T08:35:29.000Z",
+    "updated_at": "2025-06-22T08:40:34.000Z",
+    "server": {
+      "region": "OCE",
+      "latitude": 33,
+      "longitude": 151,
+      "subdomain": "gs-v2-au1"
+    },
+    "map": {
+      "string_id": "morty_ffa_v5",
+      "user": {
+        "id": 442444,
+        "username": "morty_376",
+        "verified": false
       }
     }
   }
